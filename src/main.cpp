@@ -1,4 +1,4 @@
-/// Copyright 2022 NNTU-CS
+// Copyright 2022 NNTU-CS
 
 #include <cstdlib>
 #include <fstream>
